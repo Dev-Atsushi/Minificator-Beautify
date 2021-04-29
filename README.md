@@ -1,7 +1,7 @@
-# Identando E Otimizando
-🧠 Deixando seus códigos bonitos com simples códigos
+# Identifying And Minifying
+🧠 Making your codes beautiful and minified with simple codes
 
-## Para identar utilize no cmd:
+## To identify use in CMD:
 
 ```
 gulp js
