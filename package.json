@@ -4,8 +4,8 @@
   "description": "",
   "main": "js/interface.js",
   "scripts": {
-    "start": "node js/interface.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node js/interface.js"
+
   },
   "keywords": [],
   "author": "",
